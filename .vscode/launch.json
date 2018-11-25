@@ -9,8 +9,8 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal",
-            "args":["txt"]
+            "console": "integratedTerminal"
+            // "args":["txt"]
         },
         {
             "name": "Python: Attach",
